@@ -11,9 +11,10 @@ import Resume from '../File/Vinay Panchal.pdf';
 function Home() {
 
   const projects = [
+    { title: "Pizza Website", description: "MERN stack website to order pizza by using Tailwind CSS", link:"https://github.com/vinaypanchal007/Pizzeria-MERN"},
     { title: "Airline Website", description: "MERN stack website for user to book flight tickets", link: "https://github.com/vinaypanchal007/Voyager--Full-Stack-Airline-Website-" },
     { title: "Live Weather Website", description: "Front End Website made using ReactJS for searching live weather", link: "https://github.com/vinaypanchal007/Live_Weather_Website" },
-    { title: "News Website", description: "Front End Website made using ReactJS for searching news", link: "https://github.com/vinaypanchal007/News_Website" },
+    { title: "News Website", description: "Front End Website made using ReactJS for searching news", link: "https://github.com/vinaypanchal007/News_Website" }
   ];
 
   return (
