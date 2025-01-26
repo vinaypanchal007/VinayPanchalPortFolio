@@ -28,7 +28,7 @@ function Home() {
           <a href="https://github.com/vinaypanchal007" target="_blank" rel="noopener noreferrer">
             <FaGithub className="social-icon" />
           </a>
-          <a href="https://linkedin.com/in/vinaypanchal1206" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com/in/vinaypanchal12" target="_blank" rel="noopener noreferrer">
             <FaLinkedin className="social-icon" />
           </a>
         </div>
